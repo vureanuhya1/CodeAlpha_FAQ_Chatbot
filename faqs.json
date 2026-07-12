@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is your return policy?",
+        "answer": "You can return products within 30 days of purchase with the original receipt."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order using the tracking link sent to your registered email."
+    },
+    {
+        "question": "Do you provide free shipping?",
+        "answer": "Yes, we provide free shipping on orders above ₹999."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact us by emailing support@example.com or calling +91-9876543210."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept Credit Cards, Debit Cards, UPI, Net Banking, and Cash on Delivery."
+    },
+    {
+        "question": "Can I cancel my order?",
+        "answer": "Yes, you can cancel your order before it has been shipped."
+    },
+    {
+        "question": "How long does delivery take?",
+        "answer": "Delivery usually takes between 3 to 7 business days."
+    },
+    {
+        "question": "Can I exchange a product?",
+        "answer": "Yes, products can be exchanged within 7 days if they are unused and in their original packaging."
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "answer": "Currently, we only ship within India."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "Click on 'Forgot Password' on the login page and follow the instructions sent to your email."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "Click on the Sign Up button, enter your details, and verify your email to create an account."
+    },
+    {
+        "question": "Can I update my delivery address?",
+        "answer": "Yes, you can update your delivery address before your order is dispatched."
+    },
+    {
+        "question": "Is Cash on Delivery available?",
+        "answer": "Yes, Cash on Delivery is available for selected locations."
+    },
+    {
+        "question": "How can I apply a coupon code?",
+        "answer": "You can apply your coupon code during checkout before making the payment."
+    },
+    {
+        "question": "How can I check product availability?",
+        "answer": "Product availability is displayed on each product page."
+    },
+    {
+        "question": "Can I return a damaged product?",
+        "answer": "Yes, damaged products can be returned within 7 days after delivery."
+    },
+    {
+        "question": "What are your customer support timings?",
+        "answer": "Our customer support team is available Monday to Saturday from 9:00 AM to 6:00 PM."
+    },
+    {
+        "question": "Where can I download the invoice?",
+        "answer": "You can download the invoice from the 'My Orders' section of your account."
+    },
+    {
+        "question": "Do you have a mobile app?",
+        "answer": "Yes, our mobile app is available on both Android and iOS."
+    },
+    {
+        "question": "How can I change my registered email?",
+        "answer": "Go to Account Settings and update your email after verifying your identity."
+    }
+]
